@@ -3,7 +3,7 @@
 <h6 align="center">No contactar conmigo para proyectos serios ni remunerados, gracias</h6>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cusssy&label=Profile%20views&color=0e75b6&style=flat" alt="cusssy" /> </p>
-<p align="left">Como estoy aprendiendo mis codigos pueden verse desordenados, pero poco a poco se van arreglando.</p>
+<p align="center">Como estoy aprendiendo mis codigos pueden verse desordenados, pero poco a poco se van arreglando.</p>
 - 🔭 Ahora estoy trabajando en **LightShot Link Generator**
 
 - 🌱Actualmente estoy aprendiendo **Python 🐍**
