@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Cusssy</h1>
+<h1 align="center">Hola 👋, soy Cusssy</h1>
 <h3 align="center">Me gusta programar en mi tiempo libre. Casi todos mis código son para aprender, casi ninguno son serios</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cusssy&label=Profile%20views&color=0e75b6&style=flat" alt="cusssy" /> </p>
