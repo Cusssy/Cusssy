@@ -13,7 +13,6 @@
 
 - 📫 Para contactar conmigo que sea por discord **Cusssy#0001**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
