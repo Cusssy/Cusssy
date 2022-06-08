@@ -7,7 +7,8 @@
 
 - 🌱Actualmente estoy aprendiendo **Python 🐍**
 
-- Otros proyectos HTML: Web Python  https://github.com/Cusssy/web-python
+- Otros proyectos HTML:
+-                       Web Python  https://github.com/Cusssy/web-python
 -                       Web Gatos   https://github.com/Cusssy/Web-Gatos
 
 - 👨‍💻 Todos mis proyectos están disponibles en mi propio github, en un futuro tendre un portafilio
