@@ -13,7 +13,7 @@
 
 - 📫 Para contactar conmigo que sea por discord **Cusssy#0001**
 
-<p align="left">
+<p align="middle">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
