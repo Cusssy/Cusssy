@@ -1,4 +1,3 @@
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 <h1 align="center">Hola 👋, soy Cusssy</h1>
 <h3 align="center">Me gusta programar en mi tiempo libre. Casi todos mis código son para aprender, casi ninguno son serios</h3>
 <h6 align="center">No contactar conmigo para proyectos serios ni remunerados, gracias</h6>
@@ -11,7 +10,7 @@
 
 - 🌱Actualmente estoy aprendiendo **Python 🐍**
 
-- 🌐 Otros proyectos HTML: Web Python https://github.com/Cusssy/web-python y Web Gatos https://github.com/Cusssy/Web-Gatos
+- 🌐 Otros proyectos HTML: [Web Python](https://github.com/Cusssy/web-python) y [Web Gatos](https://github.com/Cusssy/Web-Gatos)
 
 - 👨‍💻 Todos mis proyectos están disponibles en mi propio github aunque algunos estan en privado, en un futuro tendre un portafilio
 
