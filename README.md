@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cusssy&label=Profile%20views&color=0e75b6&style=flat" alt="cusssy" /> </p>
 <p align="center">Como estoy aprendiendo mis codigos pueden verse desordenados, pero poco a poco se van arreglando.</p>
-<p align="center">Tengo un nivel basico en los lenguajes de programacion que uso, se hacer las cosas basicas y puede que un poco mas (Ej: Docker y linux) en Python y HTML/CSS ya estoy un poco mas avanzado en el resto, igualmente sigue siendo un nivel basico, desde mi punto de vista claro...</p>
+<p align="center">Tengo un nivel basico en los lenguajes de programacion que uso, se hacer las cosas basicas y puede que un poco mas (Ej: Docker y linux) en Python y HTML/CSS ya estoy un poco mas avanzado que en el resto, igualmente sigue siendo un nivel basico, desde mi punto de vista claro...</p>
 
 - 🔭 Ahora estoy trabajando en **LightShot Link Generator discord bot** ([Invite](https://discord.com/oauth2/authorize?client_id=715176677868699679&scope=bot&permissions=281600))
 
