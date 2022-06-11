@@ -35,5 +35,3 @@ JSON       4 mins          ▒░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cusssy&show_icons=true&locale=en&layout=compact" alt="cusssy" /></p>
-
