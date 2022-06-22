@@ -25,10 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML     12 mins         ████████████████▓░░░░░░░░   66.83 %
-Python   5 mins          ███████▒░░░░░░░░░░░░░░░░░   28.69 %
-Bash     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
