@@ -25,7 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   35 mins         █████████████████████████   100.00 %
+mcfunction   2 hrs 23 mins   ██████████████████░░░░░░░   71.34 %
+Python       40 mins         █████░░░░░░░░░░░░░░░░░░░░   19.92 %
+Other        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
 ```
 
 <!--END_SECTION:waka-->
