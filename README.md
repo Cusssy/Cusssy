@@ -25,8 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-mcfunction   1 hr 55 mins    ███████████████████████░░   91.94 %
-Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+mcfunction   43 mins         ████████████████████████▓   98.93 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
