@@ -25,9 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-mcfunction   43 mins         ████████████████████████▓   98.93 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
