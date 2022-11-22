@@ -5,7 +5,7 @@
 <p align="center">Como estoy aprendiendo mis codigos pueden verse desordenados, pero poco a poco se van arreglando.</p>
 <p align="center">Tengo un nivel basico en los lenguajes de programacion que uso, se hacer las cosas basicas y puede que un poco mas (Ej: Docker y linux) en Python y HTML/CSS ya estoy un poco mas avanzado que en el resto, igualmente sigue siendo un nivel basico, desde mi punto de vista claro...</p>
 
-- 🔭 Ahora estoy trabajando en **LightShot Link Generator discord bot** ([Invite](https://discord.com/oauth2/authorize?client_id=715176677868699679&scope=bot&permissions=281600))
+- 🔭 Ahora estoy trabajando en **???**
 
 - 🌱Actualmente estoy aprendiendo **Python 🐍**
 
