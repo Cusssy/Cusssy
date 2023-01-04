@@ -9,7 +9,7 @@
 
 - 🌱Actualmente estoy aprendiendo **Python 🐍**
 
-- 🌐 Otros proyectos HTML: [Web Python](https://github.com/Cusssy/web-python) ([page](https://cusssy.github.io/web-python/)) y [Web Gatos](https://github.com/Cusssy/Web-Gatos) ([page](https://cusssy.github.io/Web-Gatos/))
+- 🌐 Otros proyectos HTML: [Web Python](https://github.com/Cusssy/web-python) ([URL](https://cusssy.github.io/web-python/)) y [Web Gatos](https://github.com/Cusssy/Web-Gatos) ([URL](https://cusssy.github.io/Web-Gatos/)) [tweet-cutter](https://github.com/Cusssy/tweet-cutter)([URL](https://cusssy.github.io/tweet-cutter/))
 
 - 👨‍💻 Todos mis proyectos están disponibles en mi propio github aunque algunos estan en privado, en un futuro tendre un portafilio
 
