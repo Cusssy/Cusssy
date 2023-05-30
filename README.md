@@ -9,7 +9,7 @@
 
 - 🌱Actualmente estoy aprendiendo **Python 🐍**
 
-- 🌐 Proyectos HTML: [tweet-cutter](https://github.com/Cusssy/tweet-cutter)([URL](https://cusssy.github.io/tweet-cutter/))
+- 🌐 Proyectos HTML: [tweet-cutter](https://github.com/Cusssy/tweet-cutter)([URL](cutter.cusssy.com))
 
 - 👨‍💻 Todos mis proyectos están disponibles en mi propio github aunque algunos estan en privado, en un futuro tendre un portafilio
 
