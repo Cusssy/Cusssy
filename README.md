@@ -24,7 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP   24 mins         █████████████████████████   100.00 %
+HTML   1 hr 15 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
