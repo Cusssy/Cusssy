@@ -24,8 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CSS      1 min           ████████████████████▓░░░░   82.95 %
-Python   0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
