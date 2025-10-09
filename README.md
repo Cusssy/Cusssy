@@ -24,9 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        1 hr 39 mins    ███████████████████████▓░   94.99 %
-Java Properties   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript        1 hr 40 mins    ████████████████░░░░░░░░░   63.73 %
+Python            48 mins         ███████▓░░░░░░░░░░░░░░░░░   30.89 %
+Java Properties   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+HTML              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Git Config        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
