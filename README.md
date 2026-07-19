@@ -24,7 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              4 hrs 14 mins         ███████████████████████░░   91.54 %
+Markdown          10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+JSON              8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Properties        4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Gradle            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
