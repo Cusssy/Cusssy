@@ -24,11 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              7 hrs 59 mins         ██████████████████████░░░   88.55 %
-JSON              22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-Java Properties   21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Groovy            12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Other             4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
