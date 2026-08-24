@@ -24,11 +24,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       5 hrs 14 mins         ██████████████████████▓░░   91.29 %
-Java Properties            16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-TOML                       8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-JSON                       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Markdown                   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Java                       3 hrs 53 mins         █████████████████████████   100.00 %
+Mixin Json Configuration   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
