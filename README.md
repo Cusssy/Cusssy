@@ -24,8 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       3 hrs 53 mins         █████████████████████████   100.00 %
-Mixin Json Configuration   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
