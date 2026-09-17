@@ -24,7 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java Properties   11 mins               ███████████▒░░░░░░░░░░░░░   45.43 %
+PowerShell        10 mins               ██████████▒░░░░░░░░░░░░░░   40.88 %
+Batchfile         3 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
+reg               0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Java              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
