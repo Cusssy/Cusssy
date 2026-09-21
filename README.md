@@ -24,8 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java Properties   11 mins               ████████████████████▒░░░░   81.82 %
-Java              2 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.18 %
+Java   2 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
